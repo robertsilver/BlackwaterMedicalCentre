@@ -19,6 +19,10 @@
     </FileUpgradeFlags>
     <OldToolsVersion>4.0</OldToolsVersion>
     <UpgradeBackupLocation />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -73,6 +77,7 @@
     <Content Include="Images\SurgeryCatchement.jpg" />
     <Content Include="LocalServices.aspx" />
     <Content Include="NoticeBoard.aspx" />
+    <Content Include="OnlineAppointments.aspx" />
     <Content Include="Other.aspx" />
     <Content Include="PatientPartner.aspx" />
     <Content Include="PracticeArea.aspx" />
@@ -190,6 +195,13 @@
     </Compile>
     <Compile Include="NoticeBoard.aspx.designer.cs">
       <DependentUpon>NoticeBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineAppointments.aspx.cs">
+      <DependentUpon>OnlineAppointments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OnlineAppointments.aspx.designer.cs">
+      <DependentUpon>OnlineAppointments.aspx</DependentUpon>
     </Compile>
     <Compile Include="Other.aspx.cs">
       <DependentUpon>Other.aspx</DependentUpon>

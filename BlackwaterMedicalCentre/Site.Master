@@ -26,6 +26,7 @@
                         <asp:MenuItem NavigateUrl="~/NoticeBoard.aspx" Text="Notice Board" />
                         <asp:MenuItem NavigateUrl="~/PracticeArea.aspx" Text="Practice Area" />
                         <asp:MenuItem NavigateUrl="~/Download.aspx" Text="Downloads" />
+                        <asp:MenuItem NavigateUrl="~/OnlineAppointments.aspx" Text="Online Appointments" />
                     </Items>
                 </asp:Menu>
             </div>
