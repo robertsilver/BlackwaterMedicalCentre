@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackwaterMedicalCentre", "BlackwaterMedicalCentre\BlackwaterMedicalCentre.csproj", "{3F9637A7-0DA1-4DB6-8B1D-C3AA5B5650B5}"
 EndProject
 Global
