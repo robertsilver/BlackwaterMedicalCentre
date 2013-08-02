@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BlackwaterMedicalCentre.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <img src="Images/BigHeader_Logo1.jpg" alt="Blackwater Medical Centre Logo" />
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                    IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home" />
+                        <asp:MenuItem NavigateUrl="~/Staff.aspx" Text="Staff" />
+                        <asp:MenuItem NavigateUrl="~/Times.aspx" Text="Times" />
+                        <asp:MenuItem NavigateUrl="~/Clinics.aspx" Text="Clinics" />
+                        <asp:MenuItem NavigateUrl="~/NoticeBoard.aspx" Text="Notice Board" />
+                        <asp:MenuItem NavigateUrl="~/PracticeArea.aspx" Text="Practice Area" />
+                        <asp:MenuItem NavigateUrl="~/Download.aspx" Text="Downloads" />
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+    </div>
+    <div id="wrapper1">
+        <!-- sets background to white and creates full length leftcol-->
+        <div id="wrapper2">
+            <!-- sets background to white and creates full length rightcol-->
+            <div id="maincol">
+                <!-- begin main content area -->
+                <div id="leftcol">
+                    <!-- begin leftcol -->
+                    <a href="HowDoI.aspx#1">Appointments</a><br />
+                    <a href="Details.aspx">Change of personal details</a><br />
+                    <a href="Charter.aspx">Comments</a><br />
+                    <a href="Times.aspx#2">Disabled access</a><br />
+                    <a href="HowDoI.aspx#2">Home visit</a><br />
+                    <a href="Other.aspx#2">Mid Essex PCT</a><br />
+                    <a href="Register.aspx">New patients</a><br />
+                    <a href="Other.aspx">Other information</a><br />
+                    <a href="Default.aspx#1">Opening hours</a><br />
+                    <a href="Times.aspx#1">Out of hours</a><br />
+                    <a href="Other.aspx#1">Patient confidentiality and data protection</a><br />
+                    <a href="Register.aspx#1">Registered patients</a><br />
+                    <a href="Repeat.aspx">Repeat prescriptions</a><br />
+                    <a href="PracticeArea.aspx#2">Surgery location</a><br />
+                    <a href="HowDoI.aspx#3">Test results</a><br />
+                    <%--<a href="UsefulContent.aspx">Useful information</a><br />--%>
+                    <a href="Useful.aspx">Useful links</a><br />
+                    <a href="Other.aspx#1">Zero tolerance</a><br />
+                    <a href="LocalServices.aspx">Neighbourhood professionals</a><br />
+                </div>
+                <!-- end leftcol -->
+                <!-- begin centercol -->
+                <div id="centercol">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </div>
+                <!-- end centercol -->
+            </div>
+            <!-- end main content area -->
+            <div id="footer">
+                <!-- begin footer -->
+                <%--<p>
+                    This is the footer</p>--%>
+            </div>
+            <!-- end footer -->
+        </div>
+        <!-- end wrapper1 -->
+    </div>
+    <!-- end wrapper2 -->
+    </form>
+</body>
+</html>
