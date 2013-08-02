@@ -1,5 +1,5 @@
-﻿<%@ Page Title="Blackwater Medical Centre | Staff" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
-    CodeBehind="Staff.aspx.cs" Inherits="BlackwaterMedicalCentre.Staff" %>
+﻿<%@ Page Title="Blackwater Medical Centre | Staff" Language="C#" MasterPageFile="~/Site.Master"
+    AutoEventWireup="true" CodeBehind="Staff.aspx.cs" Inherits="BlackwaterMedicalCentre.Staff" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
@@ -7,13 +7,19 @@
     <h2>
         Doctors</h2>
     <p>
-        <strong>Dr Roper</strong> MRCS (England) year LRCP (London) MRCGP<br />
-        <strong>Dr Haeger</strong>MB ChB (St London) year DRCOG FRCS<br />
-        <strong>Dr Cargill</strong> MB BS (London) year<br />
-        <strong>Dr Teatino</strong> MB ChB (London) year<br />
+        <strong>Dr Roper</strong> MRCS (England) LRCP (London) MRCGP<br />
+        <strong>Dr Haeger</strong>MB ChB (St London) DRCOG FRCS<br />
+        <strong>Dr Cargill</strong> MB BS (London)<br />
+        <strong>Dr Teatino</strong> MB ChB (London)<br />
         <strong>Dr Lim</strong> MD (Antwerp) 1986<br />
-        <strong>Dr Geranmayeh</strong> MB BCh (London) year<br />
-        <strong>Dr Wright</strong> MBBS (London) year<br />
+        <strong>Dr Geranmayeh</strong><br />
+        MB BCh (London)<br />
+        MBCHB (Leicester)<br />
+        MRCOG1<br />
+        Licenced in Acupuncture<br />
+        Diploma/Certificate in Allergic Diseases<br />
+        Diploma in Dermatology (Royal College of Physicians and Surgeons of Glasgow)<br />
+        <strong>Dr Wright</strong> MBBS (London)<br />
     </p>
     <h2>
         Practice Manager</h2>
