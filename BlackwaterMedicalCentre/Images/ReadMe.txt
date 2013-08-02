@@ -1,1 +1,0 @@
-BigHeader_Logo1.jpg uses the font Arial and a size of 36.
