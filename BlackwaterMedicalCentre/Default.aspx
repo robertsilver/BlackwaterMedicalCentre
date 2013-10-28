@@ -34,6 +34,7 @@
             </td>
         </tr>
     </table>
+     <p>As of the 25th November 2013, the practice will not be providing Saturday morning surgeries due to directives from NHS England.</p>
     <h3>
         Heybridge Surgery
     </h3>
