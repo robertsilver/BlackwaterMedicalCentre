@@ -9,6 +9,7 @@
     </h2>
     <h3>
         Maldon Sugery</h3>
+        <p>As of the 25th November 2013, the practice will not be providing Saturday morning surgeries due to directives from NHS England.</p>
     Princes Road, Maldon, Essex CM9 5GP<br/> <strong>Dr Robin Roper</strong>
     <table style="border: 1px solid black">
         <tr>
@@ -174,16 +175,6 @@
             </td>
             <td style="border: 1px solid black">
                 14.30 to 16.30
-            </td>
-        </tr>
-         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                Saturday (1 in 3)
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                09.00 to 12.00
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
             </td>
         </tr>
     </table>
@@ -358,16 +349,6 @@
                 14.30 to 18.00
             </td>
         </tr>
-         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                Saturday (1 in 3)
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                09.00 to 12.00
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-            </td>
-        </tr>
     </table>
     <strong>Dr Tim Wright</strong>
     <table style="border: 1px solid black">
@@ -528,6 +509,9 @@
         where there is a message advising you how to contact NHS Direct (0845-4647) and
         the emergency doctor. This service is financed by the practice for the benefit of
         our patients.</p>
+        <p>
+            As of the 5th November 2013, patients need to telephone 111 for out of hours.
+        </p>
     <p>
         You can also contact NHS Direct, a 24 hour nurse-led information and advice service,
         by telephoning 0845-4647 or online at <a href="http://www.nhsdirect.nhs.uk/">www.nhsdirect.nhs.uk</a></p>
