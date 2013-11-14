@@ -505,16 +505,10 @@
     <p>
         We wish to stress that out-of-hours services are strictly for emergencies only.
         From 6.30pm until 8.00am Monday to Friday and from 6.30pm Friday until 8.00am Monday,
-        patients can contact the out-of-hours service by telephoning the surgery (01621-876760)
-        where there is a message advising you how to contact NHS Direct (0845-4647) and
-        the emergency doctor. This service is financed by the practice for the benefit of
-        our patients.</p>
-        <p>
-            As of the 5th November 2013, patients need to telephone 111 for out of hours.
-        </p>
+        patients can contact the out-of-hours service by telephoning the NHS on 111.</p>
     <p>
         You can also contact NHS Direct, a 24 hour nurse-led information and advice service,
-        by telephoning 0845-4647 or online at <a href="http://www.nhsdirect.nhs.uk/">www.nhsdirect.nhs.uk</a></p>
+        by telephoning 111 or online at <a href="http://www.nhsdirect.nhs.uk/" target="_blank">www.nhsdirect.nhs.uk</a></p>
     <h3>
         <a name="2" id="2"></a>Disabled Access/Parking</h3>
     <p>
