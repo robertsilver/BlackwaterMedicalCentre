@@ -12,8 +12,8 @@
     <p>
         Dispensing patients are able to obtain medication on prescription from the Prescription
         Department, where other services are available and our qualified staff are on site
-        to assist you.  They can be contacted on 01621 855118, or alternatively, visit the pharmacy
-        web site: <a href="http://www.blackwaterpharma.co.uk" target="_blank">http://www.blackwaterpharma.co.uk</a>
+        to assist you.  They can be contacted on 01621 855118, or alternatively, visit the <a href="http://www.blackwaterpharma.co.uk" target="_blank">pharmacy
+        web site.</a>
     </p>
     <h3>
         Repeat Prescriptions</h3>
@@ -24,10 +24,8 @@
         <br/>
         If you need a repeat prescription you will be given a repeat prescription slip to
         ensure accuracy. You can order your repeat prescription by telephoning our Repeat
-        Prescription Order line on 01621 855118, <a href="mailto:prescriptionsF81099@nhs.net?Subject=Prescription request">
- emailing them</a>, or 
-        by visiting the <a href="http://www.blackwaterpharma.co.uk/Email.aspx" target="_blank">pharmacy web site</a> & 
-        filling out the prescription request: <a href="http://www.blackwaterpharma.co.uk/Email.aspx" target="blank">http://www.blackwaterpharma.co.uk/Email.aspx</a></p>
+        Prescription Order line on 01621 855118 or
+        filling out the <a href="http://www.blackwaterpharma.co.uk/Email.aspx" target="blank">prescription request</a></p>
     <p>
         Your repeat prescription request slip provides a date when your medication review
         is due; you will need to make an appointment with a doctor/nurse practitioner/practice
