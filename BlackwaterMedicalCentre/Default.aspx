@@ -6,9 +6,12 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h1 align="left">
         Welcome to the Blackwater Medical Centre</h1>
-    <h2>
-        Practice History</h2>
-    <p>
+        <div style="text-align: center">
+            <a href="mailto:admin@maldoncvs.org" target="_blank">
+    <img src="Images/Poster.jpg" />
+    </a>
+    </div>
+    
         <br/> Princes Road, <br/> Maldon <br/> CM9 5DF <br/> Tel: <strong>01621-876760</strong><br/>
     </p>
     <p>
