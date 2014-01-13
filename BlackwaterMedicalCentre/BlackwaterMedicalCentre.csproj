@@ -74,6 +74,7 @@
     <Content Include="Images\BigHeader_Logo1.jpg" />
     <Content Include="Images\Logo.PNG" />
     <Content Include="Images\MSWord.jpeg" />
+    <Content Include="Images\Poster.jpg" />
     <Content Include="Images\SurgeryCatchement.jpg" />
     <Content Include="LocalServices.aspx" />
     <Content Include="NoticeBoard.aspx" />
