@@ -44,10 +44,6 @@
         All specimens to go to the laboratory should be taken to the hospital by 2.30pm or, alternatively, they must be 
         with us at the surgery by 12pm.</p>
     <h3>
-        Patients Under 16 Years Of Age</h3>
-    <p>
-        An adult should accompany all patients under 16 years of age.</p>
-    <h3>
         Patient's Rights And Responsibilities</h3>
     <p>
         You have a right to expect a high standard of medical care from our practice and
