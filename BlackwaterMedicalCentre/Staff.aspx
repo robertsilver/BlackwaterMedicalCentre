@@ -33,12 +33,11 @@
         Practice Nurses</h2>
     <p>
         <strong>Vanessa Ellams (diabetic & travel)</strong> RGN<br />
-        <strong>Sue Paterson (triage)</strong> RGN<br />
         <strong>Sarah Skelt (asthma & travel)</strong> RGN<br />
-        <strong>Stefania Zoncheddu</strong> RGN<br />
         <strong>Tracey Dillon</strong> RGN<br />
-        <strong>Kath Little</strong> RGN<br />
         <strong>Margaret Goodwin (asthma & spirometry)</strong> RGN<br />
+        <strong>Amanda Taylor</strong> RGN<br />
+        <strong>Angela Briggs</strong> RGN<br />
         <br />
         Our qualified nurses provide a full range of services Monday to Friday by appointment.<br />
         They are trained to deal with contraceptive services, urinary infections, throat
