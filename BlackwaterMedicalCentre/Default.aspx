@@ -1,18 +1,27 @@
-﻿<%@ Page Title="Blackwater Medical Centre | Home" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeBehind="Default.aspx.cs" Inherits="BlackwaterMedicalCentre._Default" %>
+﻿<%@ Page Title="Blackwater Medical Centre | Home" Language="C#" MasterPageFile="~/Site.master"
+    AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="BlackwaterMedicalCentre._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h1 align="left">
         Welcome to the Blackwater Medical Centre</h1>
-        <div style="text-align: center">
-            <a href="mailto:admin@maldoncvs.org" target="_blank">
-    <img src="Images/Poster.jpg" />
-    </a>
-    </div>
-    
-        <br/> Princes Road, <br/> Maldon <br/> CM9 5DF <br/> Tel: <strong>01621-876760</strong><br/>
+        <!-- Have commented out because the date on the poster has now come and gone.  But keeping
+        it here in case I need to do something similar in the future, so I can use it as a guide. -->
+<%--    <div style="text-align: center">
+        <a href="mailto:admin@maldoncvs.org" target="_blank">
+            <img src="Images/Poster.jpg" />
+        </a>
+    </div>--%>
+    <br />
+    <p>
+    Princes Road,
+    <br />
+    Maldon
+    <br />
+    CM9 5DF
+    <br />
+    Tel: <strong>01621-876760</strong><br />
     </p>
     <p>
         <img src="Images/SurgeryCatchement.jpg" alt="Surgery Catchment" /></p>
@@ -37,7 +46,9 @@
             </td>
         </tr>
     </table>
-     <p>As of the 25th November 2013, the practice will not be providing Saturday morning surgeries due to directives from NHS England.</p>
+    <p>
+        As of the 25th November 2013, the practice will not be providing Saturday morning
+        surgeries due to directives from NHS England.</p>
     <h3>
         Heybridge Surgery
     </h3>
@@ -119,10 +130,9 @@
         </tr>
         <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-            7.00am to 8.00am
+                7.00am to 8.00am
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Teatino
@@ -131,11 +141,14 @@
     </table>
     <p>
         A nurse is in attendance Tuesday, Thursday & Friday mornings, providing a doctor
-        is in attendance. Telephone 01621-876760.<br/></p>
-        <h3>Emailing Us</h3>
-        <p>
-        If you wish to email us, please <a href="mailto:blackwater_medical_centre@hotmail.com" target="_blank">click here</a>.
-        </p>
+        is in attendance. Telephone 01621-876760.<br />
+    </p>
+    <h3>
+        Emailing Us</h3>
+    <p>
+        If you wish to email us, please <a href="mailto:blackwater_medical_centre@hotmail.com"
+            target="_blank">click here</a>.
+    </p>
     <h3>
         Appointments</h3>
     <p>
