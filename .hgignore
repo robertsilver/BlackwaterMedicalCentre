@@ -1,4 +1,6 @@
-/bin/Debug
-/obj
-/obj/Debug/TempPE
-suo
+syntax: glob
+*.orig
+*.*.suo
+*.*.user
+bin
+obj
