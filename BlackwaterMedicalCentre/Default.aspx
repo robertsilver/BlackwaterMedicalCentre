@@ -64,6 +64,16 @@
                 Dr Wright
             </td>
         </tr>
+          <tr>
+            <td style="border: 1px solid black">
+            </td>
+            <td style="border: 1px solid black">
+                2.00pm - 5.00pm
+            </td>
+            <td style="border: 1px solid black">
+                Dr Lim
+            </td>
+        </tr>
         <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Tuesday
@@ -116,16 +126,6 @@
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Cargill
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black">
-            </td>
-            <td style="border: 1px solid black">
-                7.00am to 10.30am
-            </td>
-            <td style="border: 1px solid black">
-                Dr Lim
             </td>
         </tr>
         <tr>

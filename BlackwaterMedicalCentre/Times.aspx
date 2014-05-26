@@ -407,10 +407,60 @@
             </td>
         </tr>
     </table>
+      <strong>Dr Pragyan Sahu (female)</strong>
+    <table style="border: 1px solid black">
+        <tr>
+            <td style="border: 1px solid black;">
+                Wednesday
+            </td>
+            <td style="border: 1px solid black;">
+                09.00 - 11.30
+            </td>
+            <td style="border: 1px solid black;">
+                15.40 to 18.00
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                Thursday
+            </td>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                09.00 to 11.30
+            </td>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                14.00 to 17.00
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black">
+                Friday
+            </td>
+            <td style="border: 1px solid black">
+                09.00 to 11.30
+            </td>
+            <td style="border: 1px solid black">
+                14.00 to 17.00
+            </td>
+        </tr>
+    </table>
+     <strong>Dr Anna Crozier</strong>
+    <table style="border: 1px solid black">
+        <tr>
+            <td style="border: 1px solid black;">
+                Monday
+            </td>
+            <td style="border: 1px solid black;">
+                08.30 to 11.30
+            </td>
+            <td style="border: 1px solid black;">
+                14.00 to 16.30
+            </td>
+        </tr>
+    </table>
     <h3>
         Heybridge Sugery</h3>
     Goldring House, Rowan Drive, Heybridge, Essex, CM9 4BW
-    <table style="border: 1px solid black">
+     <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black">
                 Monday
@@ -420,6 +470,16 @@
             </td>
             <td style="border: 1px solid black">
                 Dr Wright
+            </td>
+        </tr>
+          <tr>
+            <td style="border: 1px solid black">
+            </td>
+            <td style="border: 1px solid black">
+                2.00pm - 5.00pm
+            </td>
+            <td style="border: 1px solid black">
+                Dr Lim
             </td>
         </tr>
         <tr>
@@ -477,22 +537,10 @@
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black">
-            </td>
-            <td style="border: 1px solid black">
-                7.00am to 10.30am
-            </td>
-            <td style="border: 1px solid black">
-                Dr Lim
-            </td>
-        </tr>
-        <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 7.00am to 8.00am
-                <br />
-                9.00am to 11.00am
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Teatino
