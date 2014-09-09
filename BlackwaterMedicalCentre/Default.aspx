@@ -22,6 +22,7 @@
     CM9 5DF
     <br />
     Tel: <strong>01621-876760</strong><br />
+    Fax: <strong>01621 876778</strong> and <strong>01621 876779</strong><br />
     </p>
     <p>
         <img src="Images/SurgeryCatchement.jpg" alt="Surgery Catchment" /></p>
