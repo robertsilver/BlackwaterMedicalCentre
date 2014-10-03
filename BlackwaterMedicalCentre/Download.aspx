@@ -12,20 +12,28 @@
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Feedback Public Meeting 11 Mar 2014.pdf" target="_blank">Download 
-                the feedback from the public meeting held on the 11 Mar 2014</a>
+                <a style="width: 10px;" href="/Downloads/The NHS friends and family test.docx" target="_blank">
+                    Download the Friends & Family Test</a>
             </td>
         </tr>
-          <tr>
+        <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Patient Participation Group Report 2013-2014.docx" target="_blank">Download 
-                the Patient Participation Group report 2013-2014</a>
+                <a style="width: 10px;" href="/Downloads/Feedback Public Meeting 11 Mar 2014.pdf"
+                    target="_blank">Download the feedback from the public meeting held on the 11 Mar
+                    2014</a>
             </td>
         </tr>
-          <tr>
+        <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Who are they, what they do and how to get involved.pdf" target="_blank">Download 
-                who the public commissioning bodies are and how to get involved.</a>
+                <a style="width: 10px;" href="/Downloads/Patient Participation Group Report 2013-2014.docx"
+                    target="_blank">Download the Patient Participation Group report 2013-2014</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a style="width: 10px;" href="/Downloads/Who are they, what they do and how to get involved.pdf"
+                    target="_blank">Download who the public commissioning bodies are and how to get
+                    involved.</a>
             </td>
         </tr>
         <tr>
