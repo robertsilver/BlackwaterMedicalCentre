@@ -6,23 +6,23 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h1 align="left">
         Welcome to the Blackwater Medical Centre</h1>
-        <!-- Have commented out because the date on the poster has now come and gone.  But keeping
+    <!-- Have commented out because the date on the poster has now come and gone.  But keeping
         it here in case I need to do something similar in the future, so I can use it as a guide. -->
-<%--    <div style="text-align: center">
+    <%--    <div style="text-align: center">
         <a href="mailto:admin@maldoncvs.org" target="_blank">
             <img src="Images/Poster.jpg" />
         </a>
     </div>--%>
     <br />
     <p>
-    Princes Road,
-    <br />
-    Maldon
-    <br />
-    CM9 5DF
-    <br />
-    Tel: <strong>01621-876760</strong><br />
-    Fax: <strong>01621 876778</strong> and <strong>01621 876779</strong><br />
+        Princes Road,
+        <br />
+        Maldon
+        <br />
+        CM9 5DF
+        <br />
+        Tel: <strong>01621-876760</strong><br />
+        Fax: <strong>01621 876778</strong> and <strong>01621 876779</strong><br />
     </p>
     <p>
         <img src="Images/SurgeryCatchement.jpg" alt="Surgery Catchment" /></p>
@@ -59,42 +59,52 @@
                 Monday
             </td>
             <td style="border: 1px solid black">
-                7.00am to 10.30am
+                07.00 to 10.30
             </td>
             <td style="border: 1px solid black">
                 Dr Wright
             </td>
         </tr>
-          <tr>
-            <td style="border: 1px solid black">
+        <tr>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
             </td>
-            <td style="border: 1px solid black">
-                2.00pm - 5.00pm
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                14.00 - 17.00
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Lim
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black">
                 Tuesday
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                8.30am to 11.30am
+            <td style="border: 1px solid black">
+                08.30 to 11.30
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black;">
                 Dr Haeger
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Wednesday
             </td>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                08.30 to 11.00
+            </td>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                Dr Roper
+            </td>
+        </tr>
+        <tr>
             <td style="border: 1px solid black">
-                8.30am to 10.00am
             </td>
             <td style="border: 1px solid black">
-                Dr Roper
+                08.40 to 11.10
+            </td>
+            <td style="border: 1px solid black">
+                Dr Teatino
             </td>
         </tr>
         <tr>
@@ -102,7 +112,7 @@
                 Thursday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                8.30am to 11.30am
+                08.30 to 11.30
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Geranmayeh
@@ -112,7 +122,7 @@
             <td style="border: 1px solid black">
             </td>
             <td style="border: 1px solid black">
-                8.30am to 10.00am
+                08.30 to 10.00
             </td>
             <td style="border: 1px solid black">
                 Dr Roper
@@ -120,12 +130,22 @@
         </tr>
         <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
+            </td>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                14.00 to 17.00
+            </td>
+            <td style="border: 1px solid black; background-color: #DFDDFF;">
+                Dr Teatino
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black">
                 Friday
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                9.00am to 11.30am
+            <td style="border: 1px solid black">
+                09.00 to 11.30
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black">
                 Dr Cargill
             </td>
         </tr>
@@ -133,7 +153,7 @@
             <td style="border: 1px solid black; background-color: #DFDDFF;">
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                7.00am to 8.00am
+                07.00 to 08.00 and 09.00 to 10.30
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Teatino
