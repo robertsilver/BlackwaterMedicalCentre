@@ -1,5 +1,5 @@
-﻿<%@ Page Title="Blackwater Medical Centre | Opening times" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
-    CodeBehind="Times.aspx.cs" Inherits="BlackwaterMedicalCentre.Times" %>
+﻿<%@ Page Title="Blackwater Medical Centre | Opening times" Language="C#" MasterPageFile="~/Site.Master"
+    AutoEventWireup="true" CodeBehind="Times.aspx.cs" Inherits="BlackwaterMedicalCentre.Times" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
@@ -9,8 +9,11 @@
     </h2>
     <h3>
         Maldon Sugery</h3>
-        <p>As of the 25th November 2013, the practice will not be providing Saturday morning surgeries due to directives from NHS England.</p>
-    Princes Road, Maldon, Essex CM9 5GP<br/> <strong>Dr Robin Roper</strong>
+    <p>
+        As of the 25th November 2013, the practice will not be providing Saturday morning
+        surgeries due to directives from NHS England.</p>
+    Princes Road, Maldon, Essex CM9 5GP<br />
+    <strong>Dr Robin Roper</strong>
     <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black">
@@ -28,7 +31,7 @@
                 Tuesday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.30 to 11.30
+                08.30 to 10.00
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 14.00 to 17.00
@@ -39,31 +42,10 @@
                 Wednesday
             </td>
             <td style="border: 1px solid black">
-                08.30 to 10.00
+                08.30 to 10.10
             </td>
             <td style="border: 1px solid black">
                 15.40 to 18.00
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                Thursday
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.30 to 10.00
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black">
-                Friday
-            </td>
-            <td style="border: 1px solid black">
-                08.30 to 11.00
-            </td>
-            <td style="border: 1px solid black">
-                14.30 to 17.00
             </td>
         </tr>
     </table>
@@ -107,35 +89,15 @@
                 Thursday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                09.00 to 12.00
+                07.00 to 12.00
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 14.00 to 17.30
             </td>
         </tr>
-        <tr>
-            <td style="border: 1px solid black">
-                Friday
-            </td>
-            <td style="border: 1px solid black">
-                09.00 to 11.30
-            </td>
-            <td style="border: 1px solid black">
-            </td>
-        </tr>
     </table>
     <strong>Dr Catherine Cargill</strong>
     <table style="border: 1px solid black">
-        <tr>
-            <td style="border: 1px solid black">
-                Monday
-            </td>
-            <td style="border: 1px solid black">
-                08.30 to 10.30
-            </td>
-            <td style="border: 1px solid black">
-            </td>
-        </tr>
         <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Tuesday
@@ -151,29 +113,21 @@
             <td style="border: 1px solid black;">
                 Wednesday
             </td>
-            <td colspan="2" style="text-align: center">
-                Day off
+            <td style="border: 1px solid black;">
+                &nbsp;
+            </td>
+            <td style="border: 1px solid black;">
+                15.40 to 17.30
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                Thursday
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                10.30 to 12.30
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                14.00 to 17.30
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 Friday
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 09.00 to 11.30
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 14.30 to 16.30
             </td>
         </tr>
@@ -182,34 +136,12 @@
     <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black">
-                Monday
-            </td>
-            <td style="border: 1px solid black">
-                08.40 to 11.00
-            </td>
-            <td style="border: 1px solid black">
-                14.30 to 17.30
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                Tuesday
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.40 to 11.00
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                11.00 to 11.30 CHD Clinic
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">
                 Wednesday
             </td>
-            <td style="border: 1px solid black;">
-                07.30 to 08.00
+            <td style="border: 1px solid black">
+                07.30 to 08.30 and 09.00 to 09.50
             </td>
-            <td style="border: 1px solid black;">
+            <td style="border: 1px solid black">
                 15.40 to 18.00
             </td>
         </tr>
@@ -218,20 +150,20 @@
                 Thursday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.40 to 11.00
+                07.30 to 08.30 and 09.00 to 11.00
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                14.30 to 17.30
+                14.00 to 17.00
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;">
                 Friday
             </td>
-            <td style="border: 1px solid black">
-                07.00 to 10.30
+            <td style="border: 1px solid black;">
+                07.00 to 08.00 and 09.00 to 10.30
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;">
                 14.00 to 17.00
             </td>
         </tr>
@@ -246,7 +178,7 @@
                 08.30 to 11.00
             </td>
             <td style="border: 1px solid black">
-                14.30 to 17.30
+                14.30 to 17.00
             </td>
         </tr>
         <tr>
@@ -257,7 +189,7 @@
                 08.30 to 11.00
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                14.00 to 17.00
+                14.00 to 16.00
             </td>
         </tr>
         <tr>
@@ -276,20 +208,10 @@
                 Thursday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                07.00 to 11.00
+                08.30 to 13.00
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                14.00 to 17.00
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black">
-                Friday
-            </td>
-            <td style="border: 1px solid black">
-                08.30 to 10.30
-            </td>
-            <td style="border: 1px solid black">
+                14.30 to 17.30
             </td>
         </tr>
     </table>
@@ -300,9 +222,10 @@
                 Monday
             </td>
             <td style="border: 1px solid black">
+                09.00 to 11.30
             </td>
             <td style="border: 1px solid black">
-                14.30 to 16.00
+                &nbsp;
             </td>
         </tr>
         <tr>
@@ -385,123 +308,118 @@
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                Thursday
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.30 to 10.30
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                14.30 to 18.00
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 Friday
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 10.30 to 13.00
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 14.00 to 17.00
             </td>
         </tr>
     </table>
-      <strong>Dr Pragyan Sahu (female)</strong>
+    <strong>Dr Goswami</strong>
     <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black;">
+                Tuesday
+            </td>
+            <td style="border: 1px solid black;">
+                09.00 - 17.00
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 Wednesday
             </td>
-            <td style="border: 1px solid black;">
-                09.00 - 11.30
-            </td>
-            <td style="border: 1px solid black;">
-                15.40 to 18.00
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                09.00 - 17.00
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black;">
                 Thursday
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                09.00 to 11.30
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                14.00 to 17.00
+            <td style="border: 1px solid black;">
+                09.00 - 17.00
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 Friday
             </td>
-            <td style="border: 1px solid black">
-                09.00 to 11.30
-            </td>
-            <td style="border: 1px solid black">
-                14.00 to 17.00
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                09.00 - 17.00
             </td>
         </tr>
     </table>
-     <strong>Dr Anna Crozier</strong>
+    <strong>Dr Anna Crozier</strong>
     <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black;">
                 Monday
             </td>
             <td style="border: 1px solid black;">
-                08.30 to 11.30
-            </td>
-            <td style="border: 1px solid black;">
-                14.00 to 16.30
+                08.30 to 16.30
             </td>
         </tr>
     </table>
     <h3>
         Heybridge Sugery</h3>
     Goldring House, Rowan Drive, Heybridge, Essex, CM9 4BW
-     <table style="border: 1px solid black">
+    <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black">
                 Monday
             </td>
             <td style="border: 1px solid black">
-                7.00am to 10.30am
+                07.00 to 10.30
             </td>
             <td style="border: 1px solid black">
                 Dr Wright
             </td>
         </tr>
-          <tr>
-            <td style="border: 1px solid black">
+        <tr>
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
             </td>
-            <td style="border: 1px solid black">
-                2.00pm - 5.00pm
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                14.00 - 17.00
             </td>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 Dr Lim
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black">
                 Tuesday
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                8.30am to 11.30am
+            <td style="border: 1px solid black">
+                08.30 to 11.30
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black;">
                 Dr Haeger
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
                 Wednesday
             </td>
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                08.30 to 11.00
+            </td>
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                Dr Roper
+            </td>
+        </tr>
+        <tr>
             <td style="border: 1px solid black">
-                8.30am to 10.00am
             </td>
             <td style="border: 1px solid black">
-                Dr Roper
+                08.40 to 11.10
+            </td>
+            <td style="border: 1px solid black">
+                Dr Teatino
             </td>
         </tr>
         <tr>
@@ -509,7 +427,7 @@
                 Thursday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                8.30am to 11.30am
+                08.30 to 11.30
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Geranmayeh
@@ -519,20 +437,30 @@
             <td style="border: 1px solid black">
             </td>
             <td style="border: 1px solid black">
-                8.30am to 10.00am
+                08.30 to 10.00
             </td>
             <td style="border: 1px solid black">
                 Dr Roper
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+            </td>
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                14.00 to 17.00
+            </td>
+            <td style="border: 1px solid black;background-color: #DFDDFF;">
+                Dr Teatino
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black">
                 Friday
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
-                9.00am to 11.30am
+            <td style="border: 1px solid black">
+                09.00 to 11.30
             </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">
+            <td style="border: 1px solid black">
                 Dr Cargill
             </td>
         </tr>
@@ -540,7 +468,7 @@
             <td style="border: 1px solid black; background-color: #DFDDFF;">
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                7.00am to 8.00am
+                07.00 to 08.00 and 09.00 to 10.30
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Dr Teatino
@@ -556,7 +484,8 @@
         patients can contact the out-of-hours service by telephoning the NHS on 111.</p>
     <p>
         You can also contact NHS Direct, a 24 hour nurse-led information and advice service,
-        by telephoning 111 or online at <a href="http://www.nhsdirect.nhs.uk/" target="_blank">www.nhsdirect.nhs.uk</a></p>
+        by telephoning 111 or online at <a href="http://www.nhsdirect.nhs.uk/" target="_blank">
+            www.nhsdirect.nhs.uk</a></p>
     <h3>
         <a name="2" id="2"></a>Disabled Access/Parking</h3>
     <p>
