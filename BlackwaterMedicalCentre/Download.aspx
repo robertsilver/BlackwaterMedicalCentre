@@ -10,6 +10,12 @@
                 Documents
             </th>
         </tr>
+         <tr>
+            <td>
+                <a style="width: 10px;" href="/Downloads/2014-2015 Patient Participation Enhanced Service.pdf" target="_blank">
+                    Download the 2014-2015 Patient Participation Enhanced Service</a>
+            </td>
+        </tr>
         <tr>
             <td>
                 <a style="width: 10px;" href="/Downloads/The NHS friends and family test.docx" target="_blank">
