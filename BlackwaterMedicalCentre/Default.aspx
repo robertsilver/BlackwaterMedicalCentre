@@ -152,4 +152,28 @@
         Additional parking facilities are at the public car park off Maldon High Street.
         Parking in the access road to the practice is limited to designated spaces.
     </p>
+    <h3>Named GP</h3>
+    <div>
+        <p>
+            From April 2015 all practices are required to provide their patients with a named accountable GP who will have overall responsibility for the care and support that the surgery provides to them.
+        </p>
+        <p>
+            As we now have 14,140  registered patients it would be an impossible task to inform you all individually by letter, and ask that should you wish to know who your GP is please speak to our receptionists who will gladly give you this information.
+        </p>
+        <p>
+            Having a named GP does not prevent you from seeing any other GP in the practice at any time.
+         </p>
+        <p>
+            Should you wish to change your named GP in the future please contact us and arrangements can be made.
+        </p>
+        <p>
+            You do not need to take any further action, but if you have any questions, or wish to discuss this further, please telephone <a href="tel:01621876760" target="=_blank">01621 876760</a>.
+        </p>
+        <p>
+            Lesley Beale
+        </p>
+        <p>
+            Practice Manager
+        </p>
+    </div>
 </asp:Content>
