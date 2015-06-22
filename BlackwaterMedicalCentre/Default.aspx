@@ -18,7 +18,7 @@
         <br />
         Maldon
         <br />
-        CM9 5DF
+        CM9 5GP
         <br />
         Tel: <strong>01621-876760</strong><br />
         Fax: <strong>01621 876778</strong> and <strong>01621 876779</strong><br />
