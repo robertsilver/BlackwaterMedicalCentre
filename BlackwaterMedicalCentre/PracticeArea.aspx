@@ -11,10 +11,12 @@
         <a name="1"></a>Practice Area<br />
     </h3>
     <p align="left">
-        <img src="Images/SurgeryCatchement.jpg" alt="Practice Area" /></p>
+        <img src="Images/SurgeryCatchement.jpg" alt="Practice Area" />
+    </p>
     <p align="left">
         This map provides an indication of our area (subject to adjustment).<br />
-        Full details are available at the practice.</p>
+        Full details are available at the practice.
+    </p>
     <h3 align="left">
         <a name="2" id="2"></a>Maldon Surgery Location<br />
     </h3>
@@ -41,7 +43,11 @@
     <small>View <a href="http://maps.google.co.uk/maps/ms?msa=0&amp;ie=UTF8&amp;msid=213925854556201119081.0004a8cc1b217670599c7&amp;ll=51.740291,0.69834&amp;spn=0.004651,0.00912&amp;z=16&amp;source=embed"
         style="color: #0000FF; text-align: left">Blackwater Medical Centre Branch Surgery</a>
         in a larger map</small>
-    <p align="center">
-        <br />
-    </p>
+    <ul>
+        <li>From the Bentalls Centre take the road to Goldhanger at the mini roundabout
+        </li>
+        <li>Take the 2nd turning on the left into Lawling Road (there is a post box on the corner)</li>
+        <li>Drive to end of the road.  You will see the back of the Co-op where there is a small car park.</li>
+        <li>The surgery is the bungalow at the end of the carpark.</li>
+    </ul>
 </asp:Content>
