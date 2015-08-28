@@ -6,20 +6,22 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <table>
         <tr>
-            <th>
-                Documents
+            <th>Documents
             </th>
         </tr>
-         <tr>
+        <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/2014-2015 Patient Participation Enhanced Service.pdf" target="_blank">
-                    Download the 2014-2015 Patient Participation Enhanced Service</a>
+                <a style="width: 10px;" href="/Downloads/Patient Survey Analysis June 2015.docx" target="_blank">Download the June 2015 Patient Survery</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/The NHS friends and family test.docx" target="_blank">
-                    Download the Friends & Family Test</a>
+                <a style="width: 10px;" href="/Downloads/2014-2015 Patient Participation Enhanced Service.pdf" target="_blank">Download the 2014-2015 Patient Participation Enhanced Service</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a style="width: 10px;" href="/Downloads/The NHS friends and family test.docx" target="_blank">Download the Friends & Family Test</a>
             </td>
         </tr>
         <tr>
@@ -50,8 +52,7 @@
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Blackwater_Results_2013-14.pdf" target="_blank">
-                    Download Blackwater Results for March 2013-2014</a>
+                <a style="width: 10px;" href="/Downloads/Blackwater_Results_2013-14.pdf" target="_blank">Download Blackwater Results for March 2013-2014</a>
             </td>
         </tr>
         <tr>
@@ -68,14 +69,12 @@
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Local_Patient_Participation_Report_Mar_2012.doc">
-                    Download the Patient Participation Report March 2012</a>
+                <a style="width: 10px;" href="/Downloads/Local_Patient_Participation_Report_Mar_2012.doc">Download the Patient Participation Report March 2012</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Blackwater_Medical_Centre_Appointment_System.doc">
-                    View how the appointment system works</a>
+                <a style="width: 10px;" href="/Downloads/Blackwater_Medical_Centre_Appointment_System.doc">View how the appointment system works</a>
             </td>
         </tr>
         <tr>
@@ -92,8 +91,7 @@
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/Primary_Care_Foundation_Survey_Results.doc">
-                    View the Primary Care Foundation survey results</a>
+                <a style="width: 10px;" href="/Downloads/Primary_Care_Foundation_Survey_Results.doc">View the Primary Care Foundation survey results</a>
             </td>
         </tr>
         <tr>
