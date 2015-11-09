@@ -98,13 +98,6 @@
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black"></td>
-            <td style="border: 1px solid black">08.30 to 10.00
-            </td>
-            <td style="border: 1px solid black">Dr Roper
-            </td>
-        </tr>
-        <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;"></td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">14.00 to 17.00
             </td>
@@ -114,9 +107,17 @@
         <tr>
             <td style="border: 1px solid black">Friday
             </td>
-            <td style="border: 1px solid black">09.00 to 11.30
+            <td style="border: 1px solid black">07.00 to 08.00
             </td>
-            <td style="border: 1px solid black">Dr Cargill
+            <td style="border: 1px solid black">Dr Teatino
+            </td>
+        </tr>
+          <tr>
+            <td style="border: 1px solid black">&nbsp;
+            </td>
+            <td style="border: 1px solid black">09.00 to 10.30
+            </td>
+            <td style="border: 1px solid black">Dr Teatino
             </td>
         </tr>
         <tr>
