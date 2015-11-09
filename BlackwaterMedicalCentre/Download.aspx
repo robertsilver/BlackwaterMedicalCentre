@@ -79,7 +79,7 @@
         </tr>
         <tr>
             <td>
-                <a style="width: 10px;" href="/Downloads/PrivateFeesSept11.doc">View our private fees</a>
+                <a style="width: 10px;" href="/Downloads/PrivateFeesJul2015.doc">View our private fees</a>
             </td>
         </tr>
         <tr>
