@@ -20,6 +20,14 @@
                             <br/>
                         </td>
                     </tr>
+                     <tr>
+                        <td valign="top" bgcolor="#FFFFFF">
+                            <h2>
+                               Don't blame your GP for the delays in your treatment</h2>
+                         <a href="Downloads/Don't blame your GP.pdf" target="_blank">Don't blame your GP</a>
+                            <br/>
+                        </td>
+                    </tr>
                 </table>
             </td>
         </tr>
