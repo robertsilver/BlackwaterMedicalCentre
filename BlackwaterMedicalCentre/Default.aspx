@@ -4,15 +4,40 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-    <h1 align="left">Welcome to the Blackwater Medical Centre</h1>
     <!-- Have commented out because the date on the poster has now come and gone.  But keeping
         it here in case I need to do something similar in the future, so I can use it as a guide. -->
-    <%--    <div style="text-align: center">
-        <a href="mailto:admin@maldoncvs.org" target="_blank">
-            <img src="Images/Poster.jpg" />
-        </a>
-    </div>--%>
-    <br />
+    <div style="text-align: center; margin-top: 20px;">
+        <label style="font-size: 20px;">PATIENT INFORMATION LEAFLET (temporary halting of new patient information)</label>
+        </div>
+     <div style="margin-top: 20px;">
+        <p>
+            Our patient list size is currently to capacity; unfortunately we are not able to register any new patients
+                at the moment, with the exception of relatives residing at the same address as a current patient of ours.
+        </p>
+        <p>
+            To find your nearest alternative doctor's surgery please contact NHS England (contact information below)
+                who will advise you of your options.
+        </p>
+         <p style="font-size: 20px;"">
+             NHS England
+         </p>
+           <p style="font-size: 20px;"">
+             Essex Area Team
+         </p>
+           <p style="font-size: 20px;"">
+             <strong>Tel:</strong> 0113 824 9112
+         </p>
+           <p style="font-size: 20px;"">
+             <strong>Address:</strong> Swift House, Hedgerows Business Park, Colchester Road, Springfield, Chelmsford, Essex, CM2 5PF
+         </p>
+           <p style="font-size: 20px;"">
+             <strong>Website:</strong> <a href="http://www.nhs.uk/Services/Trusts/Overview/DefaultView.aspx?id=89788" target="_blank">Essex Area Team</a>
+         </p>
+         <p style="font-size: 20px;"">
+             <strong>Email:</strong> <a href="mailto:england.contactus@nhs.net" target="_blank">Essex Area Team</a>
+         </p>
+    </div>
+    <h1 align="left">Welcome to the Blackwater Medical Centre</h1>
     <p>
         Princes Road,
         <br />
@@ -112,7 +137,7 @@
             <td style="border: 1px solid black">Dr Teatino
             </td>
         </tr>
-          <tr>
+        <tr>
             <td style="border: 1px solid black">&nbsp;
             </td>
             <td style="border: 1px solid black">09.00 to 10.30
@@ -163,7 +188,7 @@
         </p>
         <p>
             Having a named GP does not prevent you from seeing any other GP in the practice at any time.
-         </p>
+        </p>
         <p>
             Should you wish to change your named GP in the future please contact us and arrangements can be made.
         </p>
