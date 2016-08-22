@@ -14,28 +14,26 @@
             Our patient list size is currently to capacity; unfortunately we are not able to register any new patients
                 at the moment, with the exception of relatives residing at the same address as a current patient of ours.
         </p>
-        <p>
-            To find your nearest alternative doctor's surgery please contact NHS England (contact information below)
-                who will advise you of your options.
-        </p>
-         <p style="font-size: 20px;"">
-             NHS England
+         <p style="font-size: 20px;">
+            <strong>Members of the public, patients, and their representatives</strong> should contact NHS England`s, Customer Contact Centre.<br />
+            You can contact us by
          </p>
-           <p style="font-size: 20px;"">
-             Essex Area Team
+           <p style="font-size: 20px;">
+             <strong>Tel:</strong> 0300 311 22 33
          </p>
-           <p style="font-size: 20px;"">
-             <strong>Tel:</strong> 0113 824 9112
+          <p style="font-size: 20px;">
+             <strong>Email:</strong> <a href="mailto:england.contactus@nhs.net" target="_blank">england.contactus@nhs.net</a>
          </p>
-           <p style="font-size: 20px;"">
-             <strong>Address:</strong> Swift House, Hedgerows Business Park, Colchester Road, Springfield, Chelmsford, Essex, CM2 5PF
+           <p style="font-size: 20px;">
+             <strong>Post:</strong> NHS England, PO Box 16738, Redditch, B97 9PT
          </p>
-           <p style="font-size: 20px;"">
-             <strong>Website:</strong> <a href="http://www.nhs.uk/Services/Trusts/Overview/DefaultView.aspx?id=89788" target="_blank">Essex Area Team</a>
+         <p style="font-size: 20px;">
+             <strong>British Sign Language (BSL)</strong>:  If you use BSL, you can to talk to us via a video call to a BSL interpreter. Visit <a href="http://www.interpreternow.co.uk/nhs-ccc" target="_blank">NHS England’s BSL Service</a>.
          </p>
-         <p style="font-size: 20px;"">
-             <strong>Email:</strong> <a href="mailto:england.contactus@nhs.net" target="_blank">Essex Area Team</a>
+           <p style="font-size: 20px;">
+             Our opening hours are: 8am to 6pm Monday to Friday, except Wednesdays when we open at the later time of 9.30am.
          </p>
+        
     </div>
     <h1 align="left">Welcome to the Blackwater Medical Centre</h1>
     <p>
