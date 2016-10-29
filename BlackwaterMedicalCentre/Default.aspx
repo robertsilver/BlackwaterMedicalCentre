@@ -31,9 +31,14 @@
              <strong>British Sign Language (BSL)</strong>:  If you use BSL, you can to talk to us via a video call to a BSL interpreter. Visit <a href="http://www.interpreternow.co.uk/nhs-ccc" target="_blank">NHS England’s BSL Service</a>.
          </p>
            <p style="font-size: 20px;">
-             Our opening hours are: 8am to 6pm Monday to Friday, except Wednesdays when we open at the later time of 9.30am.
+             Our opening hours are: 8am to 6.30pm Monday to Friday, except Wednesdays when we open at the later time of 9.30am.
          </p>
-        
+    </div>
+    <div style="margin-top: 40px;font-size: 20px;">
+        <p>
+            Dr Roper is currently off long term sick and we do not know when he will be returning.  In the meantime we have a long term locum covering his sessions called
+Dr Hemalatha Venkatakrishnan.  We also welcome Dr Wene who will be doing two days a week, Monday and Thursdays.
+        </p>
     </div>
     <h1 align="left">Welcome to the Blackwater Medical Centre</h1>
     <p>
@@ -60,7 +65,7 @@
                     <tr>
                         <td valign="top" nowrap bgcolor="#FFFFFF" class="tabletxt">Monday to Friday
                         </td>
-                        <td align="left" valign="top" nowrap bgcolor="#FFFFFF" class="tabletxt">8.00am - 6.00pm
+                        <td align="left" valign="top" nowrap bgcolor="#FFFFFF" class="tabletxt">8.00am - 6.30pm
                         </td>
                     </tr>
                 </table>
@@ -77,16 +82,9 @@
         <tr>
             <td style="border: 1px solid black">Monday
             </td>
-            <td style="border: 1px solid black">07.00 to 10.30
+            <td style="border: 1px solid black">08.30 to 10.30
             </td>
             <td style="border: 1px solid black">Dr Wright
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;"></td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">14.00 - 17.00
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">Dr Lim
             </td>
         </tr>
         <tr>
@@ -143,16 +141,9 @@
             <td style="border: 1px solid black">Dr Teatino
             </td>
         </tr>
-        <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;"></td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">07.00 to 08.00 and 09.00 to 10.30
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">Dr Teatino
-            </td>
-        </tr>
     </table>
     <p>
-        A nurse is in attendance Tuesday, Thursday & Friday mornings, providing a doctor
+        A nurse is in attendance Tuesday & Thursday mornings, providing a doctor
         is in attendance. Telephone 01621-876760.<br />
     </p>
     <h3>Emailing Us</h3>

@@ -7,19 +7,20 @@
     <h2>
         Doctors</h2>
     <p>
-        <strong>Dr Roper</strong> MRCS (England) LRCP (London) MRCGP<br />
-        <strong>Dr Haeger</strong>MB ChB (St London) DRCOG FRCS<br />
-        <strong>Dr Cargill</strong> MB BS (London)<br />
-        <strong>Dr Teatino</strong> MB ChB (London)<br />
+        <strong>Dr Roper</strong> MBBS, DA, MRCGP<br />
+        <strong>Dr Haeger</strong>MBBS, MRCGP, MRCP, DRCOG, JCCC<br />
+        <strong>Dr Teatino</strong> DMS (Italy)<br />
         <strong>Dr Lim</strong> MD (Antwerp) 1986<br />
         <strong>Dr Geranmayeh</strong><br />
         MB BCh (London)<br />
+        MD<br />
         MBCHB (Leicester)<br />
         MRCOG1<br />
         Licenced in Acupuncture<br />
         Diploma/Certificate in Allergic Diseases<br />
         Diploma in Dermatology (Royal College of Physicians and Surgeons of Glasgow)<br />
         <strong>Dr Wright</strong> MBBS (London)<br />
+        <strong>Dr Goswami</strong>, MBBS, MRCGP - Salaried
     </p>
     <h2>
         Practice Manager</h2>
@@ -36,8 +37,7 @@
         <strong>Sarah Skelt (asthma & travel)</strong> RGN<br />
         <strong>Tracey Dillon</strong> RGN<br />
         <strong>Margaret Goodwin (asthma & spirometry)</strong> RGN<br />
-        <strong>Amanda Taylor</strong> RGN<br />
-        <strong>Angela Briggs</strong> RGN<br />
+        <strong>Kate Felton</strong> RGN<br />
         <br />
         Our qualified nurses provide a full range of services Monday to Friday by appointment.<br />
         They are trained to deal with contraceptive services, urinary infections, throat
