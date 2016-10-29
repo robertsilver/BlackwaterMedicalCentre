@@ -52,22 +52,11 @@
     <strong>Dr Martin Haeger</strong>
     <table style="border: 1px solid black">
         <tr>
-            <td style="border: 1px solid black">
-                Monday
-            </td>
-            <td style="border: 1px solid black">
-                10.30 to 13.00
-            </td>
-            <td style="border: 1px solid black">
-                14.00 to 17.30
-            </td>
-        </tr>
-        <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Tuesday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.30 to 11.30
+                08.30 to 11.00
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 14.30 to 17.30
@@ -78,7 +67,7 @@
                 Wednesday
             </td>
             <td style="border: 1px solid black">
-                07.00 to 12.00
+                07.00 to 10.20
             </td>
             <td style="border: 1px solid black">
                 15.40 to 17.00
@@ -89,7 +78,7 @@
                 Thursday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                09.00 to 12.00
+                09.00 to 11.40
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 14.00 to 17.30
@@ -161,10 +150,10 @@
                 Wednesday
             </td>
             <td style="border: 1px solid black;">
-                10.30 to 13.00
+                07.00 to 10.20
             </td>
             <td style="border: 1px solid black;">
-                15.40 to 18.00
+                15.40 to 19.00
             </td>
         </tr>
         <tr>
@@ -182,17 +171,6 @@
     <strong>Dr Arde Geranmayeh</strong>
     <table style="border: 1px solid black">
         <tr>
-            <td style="border: 1px solid black">
-                Monday
-            </td>
-            <td style="border: 1px solid black">
-                09.00 to 11.30
-            </td>
-            <td style="border: 1px solid black">
-                &nbsp;
-            </td>
-        </tr>
-        <tr>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
                 Tuesday
             </td>
@@ -208,10 +186,10 @@
                 Wednesday
             </td>
             <td style="border: 1px solid black; background-color: Light Gray">
-                08.30 to 12.00
+               07.00 to 10.20
             </td>
             <td style="border: 1px solid black;">
-                15.40 to 18.00
+                15.40 to 19.00
             </td>
         </tr>
         <tr>
@@ -244,7 +222,7 @@
                 Monday
             </td>
             <td style="border: 1px solid black">
-                07.00 to 10.30
+                08.30 to 10.30
             </td>
             <td style="border: 1px solid black">
                 14.00 to 17.00
@@ -255,7 +233,7 @@
                 Tuesday
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
-                08.30 to 11.00
+                07.00 to 09.40
             </td>
             <td style="border: 1px solid black; background-color: #DFDDFF;">
             </td>
@@ -276,7 +254,7 @@
                 Friday
             </td>
             <td style="border: 1px solid black;background-color: #DFDDFF;">
-                10.30 to 13.00
+               08.30 to 11.10
             </td>
             <td style="border: 1px solid black;background-color: #DFDDFF;">
                 14.00 to 17.00
@@ -337,16 +315,9 @@
         <tr>
             <td style="border: 1px solid black">Monday
             </td>
-            <td style="border: 1px solid black">07.00 to 10.30
+            <td style="border: 1px solid black">08.30 to 10.30
             </td>
             <td style="border: 1px solid black">Dr Wright
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;"></td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">14.00 - 17.00
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">Dr Lim
             </td>
         </tr>
         <tr>
@@ -401,13 +372,6 @@
             <td style="border: 1px solid black">09.00 to 10.30
             </td>
             <td style="border: 1px solid black">Dr Teatino
-            </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black; background-color: #DFDDFF;"></td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">07.00 to 08.00 and 09.00 to 10.30
-            </td>
-            <td style="border: 1px solid black; background-color: #DFDDFF;">Dr Teatino
             </td>
         </tr>
     </table>
