@@ -31,7 +31,7 @@
              <strong>British Sign Language (BSL)</strong>:  If you use BSL, you can to talk to us via a video call to a BSL interpreter. Visit <a href="http://www.interpreternow.co.uk/nhs-ccc" target="_blank">NHS England’s BSL Service</a>.
          </p>
            <p style="font-size: 20px;">
-             Our opening hours are: 8am to 6.30pm Monday to Friday, except Wednesdays when we open at the later time of 9.30am.
+             Our opening hours are: 8am to 6.30pm Monday to Friday.
          </p>
     </div>
     <div style="margin-top: 40px;font-size: 20px;">
