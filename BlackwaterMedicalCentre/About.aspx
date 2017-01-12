@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About - this should appear in development branch, not master.
+        About
     </h2>
     <p>
         Put content here.
