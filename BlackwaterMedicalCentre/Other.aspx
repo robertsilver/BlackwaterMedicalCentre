@@ -18,7 +18,7 @@
     <h3>
         Repeat Prescriptions</h3>
     <p>
-        <strong>*</strong>PLEASE ALLOW AT LEAST TWO DAYS (excluding weekends and bank holidays)
+        <strong>*</strong>PLEASE ALLOW AT LEAST THREE DAYS (excluding weekends and bank holidays)
         FOR THE REPEAT PRESCRIPTION TO BE GENERATED. ALLOW A FURTHER DAY IF YOU REQUIRE
         THE PRESCRIPTION TO BE DISPENSED.
         <br/>

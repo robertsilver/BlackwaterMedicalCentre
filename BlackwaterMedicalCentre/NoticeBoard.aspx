@@ -15,7 +15,7 @@
                         <td valign="top" bgcolor="#FFFFFF">
                             <h2>All GP practices are required to declare the mean earnings (e.g. average pay) for GPs working to deliver NHS services to patients at each practice.</h2>
                             <p>
-                                The average pay for GPs working in Blackwater Medical Centre in the last financial year was £87,826 before tax and National Insurance. This is for 6 full time GPs, 1 part time GP and 1 locum who worked in the practice for more than six months.
+                                The average pay for GPs working in Blackwater Medical Centre the last financial year was £81,453  before tax and National Insurance. This is for 4 full time GPs, 5 part time GPs and no locums who worked in the practice for more than six months.
                                 <br />
                                 <br />
                                 However it should be noted that the prescribed method for calculating earnings is potentially misleading because it takes no account of how much time doctors spend working in the practice, and should not be used to form any judgement about GP earnings, nor to make any comparison with any other practice.
