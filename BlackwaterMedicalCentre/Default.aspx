@@ -148,7 +148,7 @@ Dr Hemalatha Venkatakrishnan.  We also welcome Dr Wene who will be doing two day
     </p>
     <h3>Emailing Us</h3>
     <p>
-        If you wish to email us, please <a href="mailto:blackwater_medicalcentre1@nhs.net" target="_blank">click here</a>.
+        If you wish to email us, please <a href="mailto:blackwater_medicalcentre@nhs.net" target="_blank">click here</a>.
     </p>
     <h3>Appointments</h3>
     <p>
